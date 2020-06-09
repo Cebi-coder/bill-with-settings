@@ -48,7 +48,7 @@ total = callTotal + smsTotal;
 totalSettingsElem.innerHTML = total.toFixed(2);
 
 settingsStyleColor()
-    }
+    } 
 }
 }
  
